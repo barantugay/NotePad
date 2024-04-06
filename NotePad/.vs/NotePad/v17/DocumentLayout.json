@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baran\\source\\repos\\NotePad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F217F19F-71C7-4A10-8ACD-A4432410AE45}|NotePad\\NotePad.vcxproj|C:\\Users\\baran\\source\\repos\\NotePad\\NotePad\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F217F19F-71C7-4A10-8ACD-A4432410AE45}|NotePad\\NotePad.vcxproj|solutionrelative:NotePad\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\baran\\source\\repos\\NotePad\\NotePad\\Main.cpp",
+              "RelativeDocumentMoniker": "NotePad\\Main.cpp",
+              "ToolTip": "C:\\Users\\baran\\source\\repos\\NotePad\\NotePad\\Main.cpp",
+              "RelativeToolTip": "NotePad\\Main.cpp",
+              "ViewState": "AQIAADcAAAAAAAAAAAAqwF0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-06T08:33:03.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
